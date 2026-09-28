@@ -1,4 +1,4 @@
-#### Referencias — Taller 7 Opportunities & Solutions
+# Referencias — Taller 7 Opportunities & Solutions
 
 ## Fuentes primarias del proyecto
 
